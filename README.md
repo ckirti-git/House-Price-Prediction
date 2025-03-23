@@ -20,8 +20,6 @@ This project applies **Linear Regression** to predict **house prices in Nashik**
 ### 1️⃣ Actual vs Predicted Prices  
 ![Actual vs Predicted](actual_vs_predicted.png) 
 
----
-
 ## 📢 Conclusion  
 This project demonstrates the **power of Machine Learning in real estate pricing**.  
 Future improvements could include **advanced ML models like Random Forest or XGBoost** for better accuracy.  
@@ -29,8 +27,6 @@ Future improvements could include **advanced ML models like Random Forest or XGB
 ### 🔮 What’s Next?  
 💡 Try different ML models (**Decision Tree, XGBoost**).  
 💡 Deploy as a **web app** using Flask or Streamlit.  
-
----
 
 ## 👤 Author & Acknowledgments  
 🚀 **Author:** Kirti Chaudhari  
