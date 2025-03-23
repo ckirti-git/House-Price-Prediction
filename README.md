@@ -4,7 +4,7 @@
 This project applies **Linear Regression** to predict **house prices in Nashik** based on multiple features.  
 
 ## 📂 Dataset Details 
-📌 **Download Dataset:** [Click here]([https://your-dataset-link.com](https://drive.google.com/drive/folders/1_0szBFlvP4pQE88_2xaC1OqQwkkowNy-?usp=sharing))  
+📌 **Download Dataset:** [Click here]([https://your-dataset-link.com](https://drive.google.com/drive/folders/1_0szBFlvP4pQE88_2xaC1OqQwkkowNy-?usp=sharing))   
 📊 **Features:** BHK,	price,	per_month_emi,	total_sqft,	latitude,	longitude. 
 📁 **Format:** CSV  
 
